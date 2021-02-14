@@ -1,2 +1,2 @@
-# WBD_aplikacjaBazyDanych
+AplikacjaBazyDanych
 
